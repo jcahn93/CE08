@@ -1,0 +1,9 @@
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp2.0\JamieCahnCE08.deps.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp2.0\JamieCahnCE08.runtimeconfig.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp2.0\JamieCahnCE08.runtimeconfig.dev.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp2.0\JamieCahnCE08.dll
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp2.0\JamieCahnCE08.pdb
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp2.0\JamieCahnCE08.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp2.0\JamieCahnCE08.AssemblyInfo.cs
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp2.0\JamieCahnCE08.dll
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp2.0\JamieCahnCE08.pdb

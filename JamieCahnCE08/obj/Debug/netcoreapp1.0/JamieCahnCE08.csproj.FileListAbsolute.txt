@@ -1,0 +1,5 @@
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.0\JamieCahnCE08.deps.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.0\JamieCahnCE08.runtimeconfig.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.0\JamieCahnCE08.runtimeconfig.dev.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.0\JamieCahnCE08.AssemblyInfo.cs
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.0\JamieCahnCE08.csprojResolveAssemblyReference.cache

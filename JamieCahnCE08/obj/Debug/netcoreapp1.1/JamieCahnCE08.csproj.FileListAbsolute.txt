@@ -1,0 +1,20 @@
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.deps.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.runtimeconfig.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.runtimeconfig.dev.json
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.AssemblyInfo.cs
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.dll
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.pdb
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.dll
+C:\Users\jamie\Desktop\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.pdb
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.deps.json
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.runtimeconfig.json
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.runtimeconfig.dev.json
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.dll
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\bin\Debug\netcoreapp1.1\JamieCahnCE08.pdb
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.csprojResolveAssemblyReference.cache
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.csproj.CoreCompileInputs.cache
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.AssemblyInfoInputs.cache
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.AssemblyInfo.cs
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.dll
+C:\Users\Jamie Cahn\Desktop\ASD\JamieCahnCE08\JamieCahnCE08\obj\Debug\netcoreapp1.1\JamieCahnCE08.pdb
